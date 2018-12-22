@@ -1,0 +1,11 @@
+{
+  "name": "countdown",
+  "version": "0.0.1",
+  "description": " Plugin that returns an countdown timer",
+  "main": "countdown.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Patrick Vieira Feitosa",
+  "license": "ISC"
+}
